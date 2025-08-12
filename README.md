@@ -112,7 +112,7 @@ Proyecto_V3/
 1.  Asegúrate de que tu ESP32 esté conectado y los sketches cargados.
 2.  Ejecuta el script principal de Python:
     ```bash
-    python MultipleFiles/main.py
+    python Proyecto_V3/main.py
     ```
 3.  El programa te indicará que presiones el botón en el ESP32. Una vez presionado, el ESP32 grabará tu voz, el PC la procesará, buscará una respuesta y la enviará de vuelta al ESP32 para su reproducción.
 4.  Para detener el asistente, di una de las palabras de parada configuradas (ej. "detente", "basta", "terminar") cuando el asistente esté escuchando.
